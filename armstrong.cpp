@@ -29,9 +29,10 @@ int main()
 {
     int start,end;
     cout << "Enter the start and end point seperated by space : ";
-    cin >> start >> end;
+    cin >> start ;
+    cin >> end;
 
-    while (start<=end)
+    while (start<=end)//153
     {
         if(Armstrong_no(start,count(start)))
         {
