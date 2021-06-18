@@ -1,3 +1,6 @@
+// Code By Sourabh Verma
+// Wrote a program to convert time to 24 hrs format and add 45 minutes and 45 seconds in it.
+
 #include<iostream>
 using namespace std;
 int main(){
