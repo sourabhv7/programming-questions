@@ -22,8 +22,11 @@ int main()
     cout<<"Enter the value of K : ";
     cin>>n;
     for(i = 0; i<size;i++){
-        for(j = i; j< size ;j++)
-            if(arr[i]+arr[j]==n) count++;        
+        for(j = i+1; j< size ;j++)
+            if(arr[i]+arr[j]==n){
+               cout<<arr[i]<<" "<<arr[j]<<endl;
+               count++;        
+            }
     }
     cout<<"No. of pair is "<<count;
     return 0;
