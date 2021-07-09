@@ -7,7 +7,7 @@
     Output 
     5
 '''
-string = str(input("Enter your string: "))
+string = "It is my first Internship in my life."
 list = [string]
 list = (list[0].split())
 count = 0
