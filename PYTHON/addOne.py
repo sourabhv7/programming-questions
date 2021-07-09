@@ -26,7 +26,6 @@ def addOne(arr,l):
         sum += arr[i]
         i += 1
     sum += 1
-    rem = 1
     newarr =[]
     while sum > 0:
         rem = sum % 10
