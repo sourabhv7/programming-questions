@@ -1,8 +1,7 @@
-/*
+/*  Code By Sourabh Verma
     WAP  to check an integer whether it is Happy No. or not.
     A number is called happy if it leads to 1 after a sequence of steps wherein each step number is replaced by the sum of squares of its digit that is if we start with Happy Number and keep replacing it with digits square sum, we reach 1.
     Example:
-
     Input: n = 19
     Output: True 19 is Happy Number,
     1^2 + 9^2 = 82
@@ -23,10 +22,8 @@ int happynum(int num){
             rem = num % 10;
             sum = sum + (rem*rem);
             num = num/10;
-            
         }
         return sum;
-
 }
 
 int main()
@@ -39,7 +36,6 @@ int main()
         res = happynum(res);
     }
     if(res == 1) cout<<"Happy";
-    else if(res ==4) cout<<"Not Happy";
-    
+    else if(res ==4) cout<<"Not Happy";   
     return 0;
 }
