@@ -8,14 +8,15 @@
 
 # 👨🏻‍💻Our Contributors👨🏻‍💻:-
 * ## 👨🏻‍⚖️Sourabh Verma ([sourabhv7](https://github.com/sourabhv7))
-    * To open Sourabh Verma's branch click here <a href="https://github.com/sourabhv7/programming-questions/tree/sourabhv7" target="blank"><img align="center" src="image.png" alt="sourabhv7" height="25" width="80" /></a>
+    * To open Sourabh Verma's branch **[click here](https://github.com/sourabhv7/programming-questions/tree/sourabhv7)** 
+
 * ## 👨🏻‍💼Rohit Patil ([iamrohit0101](https://github.com/iamrohit0101))
-    * To open Rohit Patil's branch click here <a href="https://github.com/sourabhv7/programming-questions/tree/iamrohit0101" target="blank"><img align="center" src="image.png" alt="iamrohit0101" height="25" width="80" /></a>
+    * To open Rohit Patil's branch **[click here](https://github.com/sourabhv7/programming-questions/tree/Iamrohit0101)**
+
 * ## 🦸🏻‍♂️Rajul Thakur ([RajultThakur](https://github.com/RajultThakur))
-    * To open Rajul Thakur's branch click here <a href="https://github.com/sourabhv7/programming-questions/tree/RajultThakur" target="blank"><img align="center" src="image.png" alt="RajultThakur" height="25" width="80" /></a>
+    * To open Rajul Thakur's branch **[click here](https://github.com/sourabhv7/programming-questions/tree/RajultThakur)**
+
 * ## 🤵🏻Siddharth Jain ([siddhjain45](https://github.com/siddhjain45))
-    * To open Siddharth Jain's branch click here <a href="https://github.com/sourabhv7/programming-questions/tree/siddhjian45" target="blank"><img align="center" src="image.png" alt="siddhjain45" height="25" width="80" /></a>
-
-
+    * To open Siddharth Jain's branch **[click here](https://github.com/sourabhv7/programming-questions/tree/sidhjain45)**
 
 
