@@ -7,9 +7,10 @@
 * Most commonly used programming language in this repoditory are C++, JAVA, PYTHON and JAVA SCRIPT.
 
 # Our Contributors:-
-* ## **Sourabh Verma** ([sourabhv7](https://github.com/sourabhv7))
-* ## **Rohit Patil** ([iamrohit0101](https://github.com/iamrohit0101))
-* ## **Rajul Thakur** ([RajultThakur](https://github.com/RajultThakur))
-* ## **Siddharth Jain** ([siddhjain45](https://github.com/siddhjain45))
+* ## Sourabh Verma ([sourabhv7](https://github.com/sourabhv7))
+* ## Rohit Patil ([iamrohit0101](https://github.com/iamrohit0101))
+* ## Rajul Thakur ([RajultThakur](https://github.com/RajultThakur))
+* ## Siddharth Jain ([siddhjain45](https://github.com/siddhjain45))
+
 
 
