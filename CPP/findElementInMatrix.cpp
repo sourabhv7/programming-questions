@@ -1,4 +1,4 @@
-/*  Code By Sourabh Verma
+/*  Code By Sourabh Verma - July 25
     WAP to search given element in matrix ?
     If found return its row and colum no. else return -1
 
