@@ -17,6 +17,6 @@
     * To open Rajul Thakur's branch **[click here](https://github.com/sourabhv7/programming-questions/tree/RajultThakur)**
 
 * ## 🤵🏻Siddharth Jain ([siddhjain45](https://github.com/siddhjain45))
-    * To open Siddharth Jain's branch **[click here](https://github.com/sourabhv7/programming-questions/tree/sidhjain45)**
+    * To open Siddharth Jain's branch **[click here](https://github.com/sourabhv7/programming-questions/tree/siddhjain45)**
 
 
